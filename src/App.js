@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>NASA's Astronomy Picture of the Day</h1>
-        <PhotoList />
+      <PhotoList />
     </div>
   );
 }
